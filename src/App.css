@@ -17,10 +17,11 @@ font-weight: bold;
   justify-content:left;
   flex-direction: column;
   margin: 6em;
+  margin-left: 20em;
  
   border: 1px solid ;
   height: auto;
-  width: auto;
+  width: 50%;
   background-color: black;
   color: white;
   border-radius: 2em;
@@ -35,9 +36,9 @@ font-weight: bold;
   background-color: black;
  }
  .option{
- 
+  background-color: blue;
   padding: 0.6em;
-  border-radius: 4%;
+  
  }
  .title{
   text-align: center;
@@ -57,9 +58,9 @@ font-weight: bold;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 4em;
+  margin: 3em;
   border: 1px solid black;
-  background-color: white;
+  background-color : rgb(91, 103, 96);
   height: auto;
   width: 30%;
   margin-left: 30%;
@@ -71,7 +72,12 @@ img{
   width:120px;
 }
 .btn{
-  height: 5vh;
-  width: 6vw;
+  height: 7vh;
+  width: 8vw;
   margin: 2em;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.h2tag{
+  background-color: rgb(91, 103, 96);
 }

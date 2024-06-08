@@ -4,11 +4,11 @@ const qBank = [
 	{
 		id: 1,
 		question: "How are state and props different in React?",
-		options: ["State is internal and controlled by the component itself, while props are external and controlled by whatever renders the componen",
+		options: ["State is internal and controlled by the component itself, while props are external and controlled by whatever renders the component",
 		"State and props are the same",
 	"Props are internal and state is external" ,
 "State can only be used in functional components"],
-		answer: "State is internal and controlled by the component itself, while props are external and controlled by whatever renders the component",
+		answer: "State is internal and controlled by the component itself, while props are external and controlled by whatever renders the component"
 	},
 	{
 		id: 2,
@@ -33,7 +33,7 @@ const qBank = [
 	,{
 		id: 5,
 		question: "What is a potential issue with this setState usage this.setState({value: this.state.value + 1});",
-		options: ["It directly mutates the state","It may lead to outdated values due to the asynchronous nature of setStat", "It's the correct way to update state","None of the above"],
+		options: ["It directly mutates the state","It may lead to outdated values due to the asynchronous nature of setState", "It's the correct way to update state","None of the above"],
 		answer: "It may lead to outdated values due to the asynchronous nature of setState"
 	},
 	{
@@ -45,7 +45,7 @@ const qBank = [
 	{
 		id: 7,
 		question: "What is a potential issue with this setState usage this.setState({value: this.state.value + 1});",
-		options: ["It directly mutates the state","It may lead to outdated values due to the asynchronous nature of setStat", "It's the correct way to update state","None of the above"],
+		options: ["It directly mutates the state","It may lead to outdated values due to the asynchronous nature of setState", "It's the correct way to update state","None of the above"],
 		answer: "It may lead to outdated values due to the asynchronous nature of setState"
 	}
 	,{
