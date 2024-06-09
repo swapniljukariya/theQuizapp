@@ -52,7 +52,7 @@ return (
         <h1>ReactQuizApp</h1>
         </header>
         <div className='title'>
-          <h2>Test your ReactJ.S. knowledge</h2>
+          <h2>Test your ReactJ.S. knowledge...</h2>
         </div>
 
         
