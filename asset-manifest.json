@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todolist-/static/css/main.628790f4.css",
-    "main.js": "/todolist-/static/js/main.ab34dc1d.js",
-    "static/js/453.98c24927.chunk.js": "/todolist-/static/js/453.98c24927.chunk.js",
-    "index.html": "/todolist-/index.html",
-    "main.628790f4.css.map": "/todolist-/static/css/main.628790f4.css.map",
-    "main.ab34dc1d.js.map": "/todolist-/static/js/main.ab34dc1d.js.map",
-    "453.98c24927.chunk.js.map": "/todolist-/static/js/453.98c24927.chunk.js.map"
+    "main.css": "/theQuizapp/static/css/main.eafd514f.css",
+    "main.js": "/theQuizapp/static/js/main.49c637c9.js",
+    "static/js/453.98c24927.chunk.js": "/theQuizapp/static/js/453.98c24927.chunk.js",
+    "index.html": "/theQuizapp/index.html",
+    "main.eafd514f.css.map": "/theQuizapp/static/css/main.eafd514f.css.map",
+    "main.49c637c9.js.map": "/theQuizapp/static/js/main.49c637c9.js.map",
+    "453.98c24927.chunk.js.map": "/theQuizapp/static/js/453.98c24927.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.628790f4.css",
-    "static/js/main.ab34dc1d.js"
+    "static/css/main.eafd514f.css",
+    "static/js/main.49c637c9.js"
   ]
 }
