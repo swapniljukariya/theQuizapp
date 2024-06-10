@@ -7,7 +7,7 @@ function App() {
   const[quizQuestions, setQuizQuestions] = useState(Questions);
   const [currentQuestionIndex, setCurrentQuestionIndex]= useState(0);
   const[score, setScore]= useState(0);
-  const[showResults, setShowResults]= useState(false);
+  const[showResults, setShowResults]= useState(true);
   const [selectedOption, setSelectedOption] = useState(null);
   
   // defined a click handler function with settimeout functionality
