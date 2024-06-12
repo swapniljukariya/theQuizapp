@@ -20,7 +20,7 @@ width: auto;
   justify-content:left;
   flex-direction: column;
   margin: 6em;
-  margin-left: 20em;
+  margin-left: 19em;
   gap: 2em;
   border: 1px solid ;
   height: auto;
@@ -42,6 +42,11 @@ width: auto;
   background-color: blue;
   padding: 0.6em;
   
+ }
+ .question{
+  display: flex;
+  align-items: center;
+  gap:1.2em;
  }
  .title{
   text-align: center;
